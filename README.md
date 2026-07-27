@@ -12,26 +12,19 @@
 
 <div align="center">
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 #### Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css&theme=dark" />
 
+#### Mobile & Frontend
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,swift&theme=dark" />
+
+#### Design & 3D
+<img src="https://skillicons.dev/icons?i=figma,blender,unity&theme=dark" />
+
 #### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,git,postgres&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=irmakersoy060-star&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b8b8b&icon_color=8b8b8b&text_color=ffffff" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irmakersoy060-star&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b8b8b&text_color=ffffff" height="160"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=irmakersoy060-star&theme=github-dark-blue&hide_border=true&background=0d1117&ring=8b8b8b&fire=8b8b8b&currStreakLabel=8b8b8b" height="160"/>
+<img src="https://skillicons.dev/icons?i=aws,git,postgres,docker&theme=dark" />
 
 </div>
 
