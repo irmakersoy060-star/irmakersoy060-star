@@ -12,11 +12,10 @@
 
 <div align="center">
 
-## Languages & Tools
+## 🛠️ Languages & Tools
 
 #### Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css&theme=dark" />
-
 
 #### Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,git,postgres&theme=dark" />
